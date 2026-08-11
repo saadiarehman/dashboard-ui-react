@@ -47,7 +47,9 @@ npm run dev
 
 ## Project Preview
 
-Add a screenshot of the dashboard here.
+## Project Preview
+
+![Dashboard UI](./screenshots/dashboard.png)
 
 ## GitHub
 
